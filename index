@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!-- This template was create by Abdullah ISM 5994 -->
+<html lang="en" >
+<head> 
+       <link rel="stylesheet" href="css/styles.css">
+	<title> Forward Fitness Club </title>
+	<meta charset= "utf-8">
+	<meta name="viewport" content= "width=device-width, initial-scale=1">
+</head>
+<body>
+<div id= "container">
+
+	<!-- Use header for website logo -->
+	<header>
+	<a href= "index.html"> <img src= "images/ffc_logo.png" alt= "Forward Fitness Club" > </a>
+	</header>
+	
+	<!-- Use for hyperlinks for different pages -->
+	<nav>
+	<ul>
+		<li><a href= "index.html">Home</a> </li>
+		<li><a href= "about.html">About Us </a> </li>
+		<li><a href= "class.html">Classes </a> </li>
+		<li><a href= "nutrition.html">Nutrition </a> </li>
+		<li><a href= "contact.html">Contact Us </a> </li>
+		</ul>
+	</nav>
+	
+	<div id="banner" class="desktop">
+	   <img src="images/homebanner.jpg" alt="home banner image"
+	</div>
+	
+	
+	<!-- Use for main content -->
+	<main>
+		
+		<p> Welcome to Forward Fitness Club. Our mission is to help our clients meet their goals. </p> 
+		
+		 <div class= "mobile">
+		 
+		 <h3>Free One week Trial membership! </h3>
+		 <p><a href="tell:814559608"> Call us today</a></p>
+		 
+		 <h4>Fitness Hours:</h4>
+		 <p>Mon - Thurs: 6 am to 6 pm<br>
+		    Fri: 6 am to 4 pm<br>
+			Sat: 8 am to 6 pm<br>
+			Sun: closed </p>
+		 
+		 
+		 </div>
+		
+		<div class="desktop">
+		
+		
+		<p> If you have struggled in the past to meet your goals we can help you. </p> 
+		<p> We offer 1 week free trial to our fitnes club. </p> 
+		
+		
+		<h1>Start Today!</h1>
+		<figure>
+		<a href="index.html"><img src="images/group.jpg" alt="group fitness"></a>
+		<a href= "nutrition.html"><img src="images/nutrition.jpg alt="good nutrition"></a> 
+		<a href="contact.html"><img src="images/signup.jpg" alt="sign up icon"></a>
+		 
+		</figure>
+		</div>
+
+	</main>
+	
+	<!-- Use for footer content -->
+	<footer>
+		&copy; Copyright 2015 All Rights Reserved. <br>
+		<a href="mailto:forwardfitness@club.net"> Forwardfitness@club.net  </a>
+	</footer>
+	
+	</div>
+	
+</body>
+</html>
